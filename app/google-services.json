@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282958837969",
+    "project_id": "databinding-4e61d",
+    "storage_bucket": "databinding-4e61d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282958837969:android:63cbb28495bfc1a328adf0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabinding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Z9yZgWzR_NoIc4JPUMhAZX-UvDtC5KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
